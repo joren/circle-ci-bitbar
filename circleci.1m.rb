@@ -27,6 +27,7 @@ COLORS = {
   'canceled' => '#898989',
   'scheduled' =>'#AC7DD3',
   'no_tests' => 'black',
+  'not_running' => 'black',
 }
 
 $all_green = true
